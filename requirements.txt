@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+streamlit
+yt-dlp
+openai-whisper
+pypdf
+yt-dlp>=2024.4.9                 
+pydub>=0.25.1                   
+ffmpeg-python>=0.2.0  
